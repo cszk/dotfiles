@@ -1,0 +1,11 @@
+[user]
+	name = cszk
+	email = public@chihirosuzuki.com
+[color]
+	ui = auto
+[core]
+	quotepath = false
+	ignorecase = false
+	excludesfile = /Users/cszk/.gitignore_global
+[push]
+	default = simple
